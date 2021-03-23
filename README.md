@@ -4,7 +4,7 @@ I'm a network programmer, tool developer and technologist that enjoys automation
 
 My career quickly took me in the direction of information security research and development with a focus on offensive security engineering.
 
-This account is for my personal projects and involvement with OWASP.
+This account is for my personal projects and involvement with @OWASP.
 
 ## 🤔 Where to find me
 
