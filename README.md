@@ -1,16 +1,12 @@
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=jeff_foley&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/jeff_foley.svg?logo=twitter"></a> •
-  <a href="https://discord.gg/rtN8GMd"><img src="https://img.shields.io/discord/433729817918308352.svg?logo=discord"></a> •
-  <a href="https://www.linkedin.com/in/caffix/"><img src="https://img.shields.io/badge/-Jeff%20Foley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/"></a>
+  <a href="https://discord.gg/rtN8GMd"><img src="https://img.shields.io/discord/433729817918308352.svg?logo=discord&style=flat-square"></a> •
+  <a href="https://www.linkedin.com/in/caffix/"><img src="https://img.shields.io/badge/-Jeff%20Foley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/"></a> •
+  <a href="https://www.buymeacoffee.com/caffix"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=black"></a> •
+  <a href="https://www.paypal.me/caffix"><img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white"></a> •
+  <a href="https://venmo.com/caffix"><img src="https://img.shields.io/badge/venmo-%233D95CE.svg?&style=for-the-badge&logo=venmo&logoColor=white"></a> •
+  <a href="https://cash.app/$caffix"><<img src="https://img.shields.io/badge/-Cash_App-00C244?style=flat-square&logo=cashapp&logoColor=fff"></a> •
+  <a href="https://github.com/sponsors/caffix"><<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logo=github%20sponsors&logoColor=white"></a>
 </p>
 
-<p align="center"><a href="https://github.com/OWASP/Amass"><img src="./github-metrics.svg"></a></p>
-
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/twitter.svg" height="40em" align="center" alt="Follow caffix on Twitter" title="Follow caffix on Twitter"/>](https://twitter.com/jeff_foley)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/linkedin.svg" height="40em" align="center" alt="Follow caffix on LinkedIn" title="Follow caffix on LinkedIn"/>](https://linkedin.com/in/caffix)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/discord.png" height="40em" align="center" alt="Chat with caffix on Discord" title="Chat with caffix on Discord"/>](https://discord.gg/rtN8GMd)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/paypal.svg" height="40em" align="center" alt="Donate to caffix on PayPal" title="Donate to caffix on PayPal"/>](https://www.paypal.me/caffix)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/buymeacoffee.png" height="40em" align="center" alt="Donate to caffix on Buy Me A Coffee" title="Donate to caffix on Buy Me A Coffee"/>](https://www.buymeacoffee.com/caffix)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/venmo.png" height="40em" align="center" alt="Donate to caffix on Venmo" title="Donate to caffix on Venmo"/>](https://venmo.com/caffix)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/cashapp.png" height="40em" align="center" alt="Donate to caffix on Cash App" title="Donate to caffix on Cash App"/>](https://cash.app/$caffix)
-[<img src="https://raw.githubusercontent.com/caffix/caffix/master/images/github.png" height="40em" align="center" alt="Donate to caffix on GitHub" title="Donate to caffix on GitHub"/>](https://github.com/sponsors/caffix)
+<p align="center"><a href="https://github.com/sponsors/caffix"><img src="./github-metrics.svg"></a></p>
