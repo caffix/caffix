@@ -9,4 +9,4 @@
   <a href="https://github.com/sponsors/caffix"><img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=flat&logo=github%20sponsors&logoColor=white"></a>
 </p>
 
-<p align="center"><a href="https://github.com/OWASP/Amass"><img src="./github-metrics.svg"></a></p>
+<p align="center" width="100%"><a href="https://github.com/OWASP/Amass"><img src="./github-metrics.svg"></a></p>
