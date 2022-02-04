@@ -23,4 +23,3 @@ jobs:
           plugin_languages: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          # config_order: base.header, base.activity, base.community, base.repositories, introduction, sponsors, isocalendar, languages
