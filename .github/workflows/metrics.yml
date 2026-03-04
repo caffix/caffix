@@ -19,6 +19,7 @@ jobs:
           user: caffix
           config_timezone: America/New_York
           committer_message: "chore: update metrics"
+          template: graph
           base: header #, activity, community, repositories
           plugin_introduction: yes
           plugin_sponsors: yes
