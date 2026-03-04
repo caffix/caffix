@@ -3,11 +3,15 @@ on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # Run workflow when pushing on main
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -15,7 +19,6 @@ jobs:
           user: caffix
           config_timezone: America/New_York
           committer_message: "chore: update metrics"
-          template: classic
           base: header #, activity, community, repositories
           plugin_introduction: yes
           plugin_sponsors: yes
