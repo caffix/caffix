@@ -26,4 +26,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_achievements_ignored: manager
+          plugin_achievements_ignored: manager, projects
